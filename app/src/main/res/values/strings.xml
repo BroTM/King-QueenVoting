@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VotingResult</string>
+    <string name="title" >Vote</string>
+    <string name="password" >Enter ID Code</string>
+    <string name="invalid_id_code">Invalid Id code</string>
+    <string name="login" >Login</string>
+    <string name="dialog" >ပို့၇န္ ေသခ်ာပါသလား</string>
+</resources>
